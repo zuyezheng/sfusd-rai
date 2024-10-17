@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "sfusd-rai"
+version = "0.1.0"
+description = ""
+authors = ["zuyezheng <zuyezheng@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyterlab = "^4.2.5"
+polars = "^1.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
