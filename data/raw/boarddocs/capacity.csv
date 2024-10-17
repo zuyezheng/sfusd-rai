@@ -1,19 +1,121 @@
-Argonne Early Education School750 - 16th Avenue195038,2508,275EES47170$150,000
-Argonne Elementary School680 18th Avenue199768,52052,000ES20389398$300,000
-Balboa High School1000 Cayuga Avenue1928446,040261,700HS701,2621,296$23,128,311
-Bessie Carmichael Elementary School375 7th Street200461,25056,358ES25401478$400,000
-Bessie Carmichael Middle School824 Harrison Street197737,32522,994MS8191198$300,000
-Bret Harte Elementary School1035 Gilman Avenue1953204,74072,359ES29268323$5,379,786
-Bryant Elementary School2641 25th Street197040,00035,764ES17270316$4,345,167
-Buena Vista Horace Mann Community School3351 23rd Street1950111,527111,558ES37591618$46,885,828
-Cesar Chavez Elementary School825 Shotwell Street194069,51553,940ES29443463$6,966,780
-Chinese Immersion School at DeAvila1250 Waller Street189653,90558,582ES26370396$10,737,654
-Civic Center Secondary School727 Golden Gate Avenue191148,94329,060HS1636N/A$14,670,005
-Claire Lilienthal Alternative School - Madison3950 Sacramento Street192043,60524,919ES13235252$1,042,573
-Claire Lilienthal Alternative School - Winfield Scott3630 Divisadero Street193675,62555,747ES24410405$26,607,658
-Clarendon Alternative Elementary School500 Clarendon Ave1961135,03657,410ES27511542$24,936,649
-Cleveland Elementary School455 Athens Street191060,00028,927ES18318396$7,732,115
-Commodore Sloat Elementary School50 Darien Way1922195,26659,200ES17371395$2,572,968
-Commodore Stockton Early Education School1 Trenton Street192410,65048,426EES1192110$5,938,347
-Daniel Webster Elementary School465 Missouri Street192455,00042,800ES20341382$12,074,323
-Dianne Feinstein Elementary School2550 25th Avenue200691,25762,087ES27406421$300,000
+SITE NAME,ADDRESS,YEAR BUILT,LOT SQ FT,BUILDING SQ FT,PRIMARY PROGRAM,CLASSROOMS,STUDENT ENROLLMENT,ENROLLMENT CAPACITY,BOND INVESTMENTS SINCE 2003
+A.P. Giannini Middle School,3151 Ortega Street,1954,383154,136392,MS,50,1178,1199,48244407
+Abraham Lincoln High School,2162 24th Avenue,1940,704016,330200,HS,90,1920,2046,45013869
+Alamo Elementary School,250 23rd Avenue,1926,60000,50420,ES,27,435,413,2862675
+Alice Fong Yu Alternative School,1541 12th Avenue,1995,78007,42978,ES,24,586,594,4378810
+Alvarado Elementary School,625 Douglass Street,1924,79247,51700,ES,33,472,518,2851168
+Aptos Middle School,105 Aptos Avenue,1931,121974,168000,MS,49,855,904,20231647
+Argonne Early Education School,750 - 16th Avenue,1950,38250,8275,EES,4,71,70,150000
+Argonne Elementary School,680 18th Avenue,1997,68520,52000,ES,20,389,398,300000
+Balboa High School,1000 Cayuga Avenue,1928,446040,261700,HS,70,1262,1296,23128311
+Bessie Carmichael Elementary School,375 7th Street,2004,61250,56358,ES,25,401,478,400000
+Bessie Carmichael Middle School,824 Harrison Street,1977,37325,22994,MS,8,191,198,300000
+Bret Harte Elementary School,1035 Gilman Avenue,1953,204740,72359,ES,29,268,323,5379786
+Bryant Elementary School,2641 25th Street,1970,40000,35764,ES,17,270,316,4345167
+Buena Vista Horace Mann Community School,3351 23rd Street,1950,111527,111558,ES,37,591,618,46885828
+Cesar Chavez Elementary School,825 Shotwell Street,1940,69515,53940,ES,29,443,463,6966780
+Chinese Immersion School at DeAvila,1250 Waller Street,1896,53905,58582,ES,26,370,396,10737654
+Civic Center Secondary School,727 Golden Gate Avenue,1911,48943,29060,HS,16,36,N/A,14670005
+Claire Lilienthal Alternative School - Madison,3950 Sacramento Street,1920,43605,24919,ES,13,235,252,1042573
+Claire Lilienthal Alternative School - Winfield Scott,3630 Divisadero Street,1936,75625,55747,ES,24,410,405,26607658
+Clarendon Alternative Elementary School,500 Clarendon Ave,1961,135036,57410,ES,27,511,542,24936649
+Cleveland Elementary School,455 Athens Street,1910,60000,28927,ES,18,318,396,7732115
+Commodore Sloat Elementary School,50 Darien Way,1922,195266,59200,ES,17,371,395,2572968
+Commodore Stockton Early Education School,1 Trenton Street,1924,10650,48426,EES,11,92,110,5938347
+Daniel Webster Elementary School,465 Missouri Street,1924,55000,42800,ES,20,341,382,12074323
+Dianne Feinstein Elementary School,2550 25th Avenue,2006,91257,62087,ES,27,406,421,300000
+Dolores Huerta Elementary School,65 Chenery Street,1977,125819,60960,ES,23,345,384,3760843
+Downtown High School,693 Vermont Street,1956,64500,58760,HS,18,134,225,7358112
+Dr. Charles Drew College Preparatory Academy,50 Pomona Street,1972,120000,55234,ES,28,186,270,33115545
+Dr. George Washington Carver Elementary School,1360 Oakdale Avenue,1974,108155,46418,ES,21,107,139,5739152
+"Dr. Martin Luther King, Jr. Academic Middle School",350 Girard Street,1980,207200,72210,MS,29,400,457,9637557
+Dr. William L. Cobb Elementary School,2725 California Street,1925,56718,36346,ES,17,156,192,9682639
+E.R. Taylor Elementary School,423 Burrows Street,1929,96000,56113,ES,33,641,689,1196838
+Edwin and Anita Lee Newcomer School,657 Merchant Street,2007,5845,11772,ES,10,30,72,2503203
+El Dorado Elementary School,70 Delta Street,1980,203492,41378,ES,17,126,184,15596556
+Everett Middle School,450 Church Street,1928,178298,155370,MS,38,598,637,12809961
+Francis Scott Key Elementary School,1530 43rd Avenue,1935,90000,54321,ES,29,543,582,11051316
+Francisco Middle School,2190 Powell Street,1924,113020,122834,MS,38,548,566,16164724
+Frank McCoppin Elementary School,651 6th Avenue,1970,42000,32799,ES,17,198,243,11614738
+Galileo Academy of Science & Technology,1150 Francisco Street,1925,211200,242400,HS,88,1877,1942,19686471
+Garfield Elementary School,420 Filbert Street,1970,34422,33800,ES,17,196,242,19482000
+George Peabody Elementary School,251 6th Avenue,1970,36000,21805,ES,13,272,275,7761238
+George R. Moscone ES/Las Americas EES,2576 Harrison Street,1997,67375,74822,ES,23,391,444,1311388
+George Washington High School,600 32nd Avenue,1936,679002,247800,HS,100,2068,2101,97404162
+Glen Park Elementary School,151 Lippard Avenue,1936,103792,45200,ES,20,313,341,8724341
+Gordon J. Lau Elementary School,950 Clay Street,1914,68870,66113,ES,31,700,734,27015495
+Grattan Elementary School,165 Grattan Street,1971,63390,55420,ES,24,403,452,3439934
+Guadalupe Elementary School,859 Prague Street,1922,88081,40777,ES,25,333,384,7736656
+Harvey Milk Civil Rights Academy,4235 19th Street,1956,31405,30560,ES,11,187,198,20716327
+Herbert Hoover Middle School,2290 14th Avenue,1956,358229,132400,MS,44,934,965,23419746
+Hillcrest Elementary School,810 Silver Avenue,1956,106154,55213,ES,27,372,361,38101517
+Hilltop High School,1325 Florida Street,1937,39000,39000,HS,25,91,N/A,13423061
+Ida B. Wells High School,1099 Hayes Street,1911,60671,34300,HS,17,133,220,17129836
+Independence High School,1350 7th Avenue,1980,48000,30114,HS,14,137,275,11658653
+James Denman Middle School,241 Oneida Avenue,1939,195000,152412,MS,52,794,837,19369555
+James Lick Middle School,1220 Noe Street,1934,127680,116000,MS,34,424,536,19474696
+Jean Parker Elementary School,840 Broadway Street,1996,26888,46000,ES,16,168,231,300000
+Jefferson Early Education School,1350 25th Avenue,1946,18000,3858,EES,2,32,35,926461
+Jefferson Elementary School,1725 Irving Street,1960,82500,45344,ES,22,486,509,3138592
+John McLaren Early Education School,2055 Sunnydale Ave. West,2009,125000,13200,EES,6,48,82,7321747
+John Muir Elementary School,380 Webster Street,1932,45912,65750,ES,30,246,295,3560612
+John O’Connell High School,2355 Folsom Street,2000,155195,130091,HS,63,530,583,2091197
+John Yehall Chin Elementary School,350 Broadway,1914,27557,27415,ES,12,265,275,14677730
+Jose Ortega Elementary School,400 Sargent Street,1950,220000,42965,ES,20,390,421,11052004
+June Jordan School for Equity,325 La Grande Avenue,1956,572814,151600,HS,50,208,263,12422442
+Junipero Serra Annex Early Education School,155 Appleton Avenue,1980,346850,7300,EES,4,62,111,2936070
+Junipero Serra Elementary School,625 Holly Park Circle,1974,34730,34200,ES,17,267,292,13021908
+Lafayette Elementary School,4545 Anza Street,1927,74400,54283,ES,26,494,531,26530616
+Lakeshore Alternative Elementary School,220 Middlefield Drive,1955,243936,56101,ES,30,427,426,14594489
+Lawton Alternative School,1570 31st Avenue,1936,90000,64940,ES,29,597,605,6766778
+Leola M. Havard Early Education School,1520 Oakdale Avenue,1967,85840,64530,EES,12,78,80,7879433
+Leonard R. Flynn Elementary School,3125 Cesar Chavez Street,1955,64153,57105,ES,30,426,442,2765380
+Longfellow Elementary School,755 Morse Street,1958,88909,40500,ES,26,470,509,13609891
+Lowell High School,1101 Eucalyptus Drive,1970,1189188,245000,HS,99,2652,2661,22578221
+Malcolm X Academy Elementary School,350 Harbor Road,1955,155422,50800,ES,18,107,170,4326236
+Marina Middle School,3500 Fillmore Street,1930,281180,152900,MS,47,684,739,44021773
+Marshall Elementary School,1575 15th Street,1950,33900,34300,ES,15,233,264,3185229
+Ruth Asawa School of the Arts / The Academy SF,555 Portola Drive,1974,1086169,243882,HS,71,1097,1065,40052770
+McKinley Elementary School,1025 14th Street,1976,73600,45160,ES,20,277,299,4902443
+Miraloma Elementary School,175 Omar Way,1952,101600,56100,ES,19,333,408,10620664
+Mission Education Center Elementary School,1670 Noe Street,1980,41040,23190,ES,15,57,140,6096222
+Mission High School,3750 18th Street,1926,234640,238677,HS,77,1080,1163,27125785
+Monroe Elementary School,260 Madrid Street,1916,70000,53400,ES,22,507,556,8174569
+New Traditions Creative Arts Elementary School,2049 Grove Street,1923,55000,26300,ES,13,233,264,5449693
+Noriega Early Education School,1775 44th Avenue,1960,61020,15924,EES,10,126,160,4029834
+Paul Revere Elementary School (Annex),610 Tompkins Street,1975,31500,36450,ES,17,288,347,6755508
+Paul Revere School,555 Tompkins Avenue,1970,49000,38220,ES,13,171,196,7291829
+Phillip and Sala Burton Academic High School,400 Mansell Street,1961,774000,230000,HS,70,1144,1228,16676468
+Presidio Middle School,450 30th Avenue,1930,144000,140000,MS,47,987,1015,19362502
+Raoul Wallenberg Traditional High School,40 Vega Street,1951,144184,62840,HS,26,636,686,15139396
+Raphael Weill Early Education School,1501 O’Farrell Street,1924,7740,15000,EES,6,24,48,4584123
+Redding Elementary School,1421 Pine Street,1980,37320,31374,ES,17,244,286,17615860
+Robert Louis Stevenson Elementary School,2051 34th Avenue,1956,144000,59740,ES,23,449,445,18995685
+Rooftop Alternative School - Mayeda,500 Corbett Avenue,1953,28600,21000,ES,10,242,264,300000
+Rooftop Alternative School - Twin Peaks,443 Burnett Avenue,1978,165392,23300,ES,14,307,346,1571018
+Roosevelt Middle School,460 Arguello Boulevard,1928,94469,121000,MS,32,670,682,11051694
+Rosa Parks Elementary School,1501 O’Farrell Street,1924,133884,66900,ES,30,380,460,4158677
+San Francisco Community School,125 Excelsior Avenue,1911,60000,66900,ES,16,280,297,2841356
+San Francisco International High School,655 De Haro Street,1970,239000,126658,HS,35,293,499,0
+San Francisco Public Montessori Elementary School,2340 Jackson Street,1923,38361,64500,ES,22,153,192,8262770
+San Miguel Early Education School,300 Seneca Avenue,1953,88946,22169,EES,12,89,90,7820821
+Sanchez Elementary School,325 Sanchez Street,1926,77900,50500,ES,30,282,318,8259888
+Sheridan Elementary School,431 Capitol Avenue,1994,70000,54596,ES,18,213,257,18980000
+Sherman Elementary School,1651 Union Street,1928,75625,56200,ES,26,285,322,1171140
+Spring Valley Science Elementary School,1451 Jackson Street,1910,41250,50400,ES,22,241,289,8676745
+Starr King Elementary School,1215 Carolina Street,1949,65900,49900,ES,23,318,415,13310350
+Sunnyside Elementary School,250 Forester Street,2000,64687,41996,ES,18,337,381,10164366
+Sunset Elementary School,1920 41st Avenue,1956,204592,37115,ES,16,401,406,5414329
+Sutro Elementary School,235 12th Avenue,1976,42000,32860,ES,16,226,267,5807369
+Tenderloin Community Elementary School,627 Turk Street,1998,32000,81207,ES,24,300,359,300000
+Theresa S. Mahler Early Education School,990 Church Street,1993,23199,6090,EES,3,45,48,3794830
+Thurgood Marshall Academic High School,45 Conkling Street,1960,269592,150404,HS,48,526,638,59905938
+Tule Elk Park Early Education School,2110 Greenwich Street,2008,33000,29190,EES,4,80,140,25552000
+Ulloa Elementary School,2650 42nd Avenue,1956,173200,63730,ES,25,530,528,10834315
+Visitacion Valley Elementary School,55 Schwerin Street,1937,84552,51400,ES,22,297,343,11880310
+Visitacion Valley Middle School,1971 Visitacion Avenue,1970,383985,112630,MS,39,347,454,22492345
+West Portal Elementary School,5 Lenox Way,1926,122324,44700,ES,28,533,616,5450883
+Willie L. Brown Jr. Middle School,2055 Silver Avenue,2015,225118,88830,MS,23,196,263,57956872
+Yick Wo Alternative Elementary School,2245 Jones Street,1983,30612,26000,ES,14,215,252,4926277
+Zaida T. Rodriguez Early Education School (Mission),2950 Mission Street,1975,25850,6400,EES,2,21,48,1592641
+Zaida T. Rodriguez Early Education School (Bartlett),421 Bartlett Street,1975,8480,4450,EES,2,11,44,61521
