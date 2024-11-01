@@ -4,7 +4,7 @@ SFUSD was not really forthcoming with their data behind the closures and [Resour
 
 Combined several sources and [modeled](/notebooks/processing/ComponentScores.ipynb) the component scores to see what an equally weighted composite score might have looked like compared to the current (.5 * equity + .25 * excellence + .25 * efficiency). 
 
-Final data is in [component_scores_augmented.csv](/data/processed/component_scores_augmented.csv).
+Final data is in [component_scores_augmented.csv](/data/processed/component_scores_augmented.csv) or as a [google sheet](https://docs.google.com/spreadsheets/d/1uO3IBMIBCzlcAr63b85FY0VMz-3a2ZkqQV7pi52IGGc/edit?usp=sharing).
 
 You can also play around with it in [Interactive Dashboard](https://app.hyperarc.com/?isEmbed=true&embedId=68a7fcc6-9fcc-4b13-84ec-594a75368745#/hyperarc/sfusd/dashboard/sfusd-overview) (you can build custom analysis by [logging in](https://app.hyperarc.com/) and searching for the `SFUSD Schools` dataset).
 
